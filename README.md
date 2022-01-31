@@ -4,7 +4,7 @@
 - 📫 How to reach me
   - Email: elianicholas@gmail.com
   - LinkedIn: <https://www.linkedin.com/in/nick-elia/>
-  - Website: [My Website](nickelia21.github.io)
+  - Website: <https://nickelia21.github.io/>
 
 <!---
 nickelia21/nickelia21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
