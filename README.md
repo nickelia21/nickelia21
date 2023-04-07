@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nick
-- 👀 I’m interested in Data Analytics and Quantitative Investments
-- 🌱 I’m currently learning Digital Marketing Analytics @ Criteo
+- 👀 I’m interested in Data Science, Data Analytics, and Quantitative Investments
+- 🌱 I’m currently a Senior Data Analyst @ Microsoft
 - 📫 How to reach me
   - Email: elianicholas@gmail.com
   - LinkedIn: <https://www.linkedin.com/in/nick-elia/>
